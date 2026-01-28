@@ -1,6 +1,6 @@
 # CFine Analysis
 
-Modular Python package for analyzing CFINE project data, specifically processing electrode metrics (Area, Eccentricity) from microscopic images.
+Python package for analyzing CFINE project data, specifically processing electrode metrics (Area, Eccentricity) from microscopic images.
 
 ## Structure
 
